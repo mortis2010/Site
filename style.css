@@ -1,0 +1,155 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(21, 3, 37);
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #36bbce;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: block;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+
+.post h2{
+    color: black;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.post {
+    background-color: white;
+    padding: 15px 45px 30px 45px;
+    width: 300px;
+    margin: 20px;
+
+}
+
+iframe{
+    margin-top: 50px;
+}
+.nap{
+    display: flex;
+    justify-content: center;
+}
+.full-image {
+    margin: 100px 0px 100px 0px;
+}
+
+.social {
+    display: block;
+    width: 30px;
+}
+
+footer {
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 30px 20px 45px;
+}
+
+.footer-text {
+    font-size: 24px;
+    margin-right: 30px;
+}
+.logo {
+    width: 650px;
+    height: 250px;
+}
+.bjhgcfvb::before {
+    content: url(https://u.kanobu.ru/c/d70b8b82a6c8bd168ea24a81c4a6c1a6/50x50/accounts/49/9730449/avatar.jpg);
+    width: 10px;
+    height: 10px;
+}
+.like {
+    width: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+h3 {
+    color: white;
+}
+p{
+    color: white;
+    font-size:20px;
+}
+p b {
+    color: white;
+}
+
+.post_l{
+    float:left;
+}
+
+.post_r{
+    float:right;
+}
+
+
+td{
+    color: white;
+}
+.t1 {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+}
+.t2 {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+}
+.t3 {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+}
+table {
+    border: 2px solid white;
+}
+
+td{
+    border: 2px solid white;
+}
